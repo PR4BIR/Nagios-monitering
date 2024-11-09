@@ -1,0 +1,2 @@
+# Nagios-monitering
+ previews
